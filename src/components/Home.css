@@ -1,0 +1,36 @@
+  /* homme page */
+
+
+  .signup-box{
+    height: 98vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #290925;                 
+  }
+  .shiva{
+    display: flex;
+  flex-direction: column;
+  width: 280px;
+  max-width: 80%;
+  min-width: 700px;
+  min-height: 450px;
+  padding: 20px 40px;
+  border-radius: 6px;
+  background-color: darkorange;      
+  /* background-color: #ec122f10; */
+  }
+  .title{
+    font-weight: 600;
+    margin-top:0;
+  }
+  .err {
+    font-size: small;
+    color: red;
+  }
+  .asterisk{
+    font-size: small;
+    color: red;
+  }
